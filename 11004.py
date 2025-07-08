@@ -36,7 +36,7 @@ def quickSort(s,e,k):
 def partition(s,e):
     global a
     if s+1==e:
-        if a[s]>s[e]:
+        if a[s]>a[e]:
             swap(s,e)
         return e
     m=(s+e)//2
