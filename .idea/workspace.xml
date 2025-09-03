@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cdedeaf-02a0-4dcc-9f53-64cbc8b1d9ff" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/11586.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15650.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15881.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10874.py" beforeDir="false" afterPath="$PROJECT_DIR$/10874.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11047.py" beforeDir="false" afterPath="$PROJECT_DIR$/11047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/1152.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11723.py" beforeDir="false" afterPath="$PROJECT_DIR$/11723.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16394.py" beforeDir="false" afterPath="$PROJECT_DIR$/16394.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16462.py" beforeDir="false" afterPath="$PROJECT_DIR$/16462.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16673.py" beforeDir="false" afterPath="$PROJECT_DIR$/16673.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/1697.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17128.py" beforeDir="false" afterPath="$PROJECT_DIR$/17128.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1850.py" beforeDir="false" afterPath="$PROJECT_DIR$/1850.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20124.py" beforeDir="false" afterPath="$PROJECT_DIR$/20124.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21736.py" beforeDir="false" afterPath="$PROJECT_DIR$/21736.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2343.py" beforeDir="false" afterPath="$PROJECT_DIR$/2343.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2921.py" beforeDir="false" afterPath="$PROJECT_DIR$/2921.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31429.py" beforeDir="false" afterPath="$PROJECT_DIR$/31429.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33046.py" beforeDir="false" afterPath="$PROJECT_DIR$/33046.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2zPQCcwlOMHLn81iEfr7X6hrUPW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1003.executor": "Run",
+    "Python.1018.executor": "Run",
+    "Python.1032.executor": "Run",
+    "Python.10814.executor": "Run",
+    "Python.10874.executor": "Run",
+    "Python.10989.executor": "Run",
+    "Python.11004.executor": "Run",
+    "Python.11047.executor": "Run",
+    "Python.11050.executor": "Run",
+    "Python.11383.executor": "Run",
+    "Python.11399.executor": "Run",
+    "Python.1152.executor": "Run",
+    "Python.11586.executor": "Run",
+    "Python.11650.executor": "Run",
+    "Python.11723.executor": "Run",
+    "Python.11724.executor": "Run",
+    "Python.11726.executor": "Run",
+    "Python.11866.executor": "Run",
+    "Python.1259.executor": "Run",
+    "Python.1260.executor": "Run",
+    "Python.1292.executor": "Run",
+    "Python.13023,py.executor": "Run",
+    "Python.13236.executor": "Run",
+    "Python.1325.executor": "Run",
+    "Python.1389.executor": "Run",
+    "Python.1427.executor": "Run",
+    "Python.1436.executor": "Run",
+    "Python.1456.executor": "Run",
+    "Python.15650.executor": "Run",
+    "Python.15881.executor": "Run",
+    "Python.16394.executor": "Run",
+    "Python.16462.executor": "Run",
+    "Python.16673.executor": "Run",
+    "Python.1697.executor": "Run",
+    "Python.17128.executor": "Run",
+    "Python.1715.executor": "Run",
+    "Python.17206.executor": "Run",
+    "Python.17219.executor": "Run",
+    "Python.1850.executor": "Run",
+    "Python.1874.executor": "Run",
+    "Python.1920.executor": "Run",
+    "Python.1931.executor": "Run",
+    "Python.2012.executor": "Run",
+    "Python.20124.executor": "Run",
+    "Python.2023.executor": "Run",
+    "Python.20973.executor": "Run",
+    "Python.2108.executor": "Run",
+    "Python.21736.executor": "Run",
+    "Python.2193.executor": "Run",
+    "Python.2343.executor": "Run",
+    "Python.2467.executor": "Run",
+    "Python.2609.executor": "Run",
+    "Python.26264.executor": "Run",
+    "Python.2675.executor": "Run",
+    "Python.2739.executor": "Run",
+    "Python.2751.executor": "Run",
+    "Python.28702.executor": "Run",
+    "Python.2921.executor": "Run",
+    "Python.3041.executor": "Run",
+    "Python.31408.executor": "Run",
+    "Python.31429.executor": "Run",
+    "Python.32209.executor": "Run",
+    "Python.33046.executor": "Run",
+    "Python.9012.executor": "Run",
+    "Python.9095.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="11050" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jelee\PycharmProjects\PythonProject\11050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PythonProject)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7cdedeaf-02a0-4dcc-9f53-64cbc8b1d9ff" name="변경" comment="" />
+      <created>1751630103408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751630103408</updated>
+    </task>
+    <servers />
+  </component>
+</project>
