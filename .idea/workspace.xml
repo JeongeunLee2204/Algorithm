@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cdedeaf-02a0-4dcc-9f53-64cbc8b1d9ff" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/11586.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15881.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10874.py" beforeDir="false" afterPath="$PROJECT_DIR$/10874.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11047.py" beforeDir="false" afterPath="$PROJECT_DIR$/11047.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/1152.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11723.py" beforeDir="false" afterPath="$PROJECT_DIR$/11723.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16394.py" beforeDir="false" afterPath="$PROJECT_DIR$/16394.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16462.py" beforeDir="false" afterPath="$PROJECT_DIR$/16462.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16673.py" beforeDir="false" afterPath="$PROJECT_DIR$/16673.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/1697.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17128.py" beforeDir="false" afterPath="$PROJECT_DIR$/17128.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1850.py" beforeDir="false" afterPath="$PROJECT_DIR$/1850.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20124.py" beforeDir="false" afterPath="$PROJECT_DIR$/20124.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21736.py" beforeDir="false" afterPath="$PROJECT_DIR$/21736.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2343.py" beforeDir="false" afterPath="$PROJECT_DIR$/2343.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2921.py" beforeDir="false" afterPath="$PROJECT_DIR$/2921.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31429.py" beforeDir="false" afterPath="$PROJECT_DIR$/31429.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33046.py" beforeDir="false" afterPath="$PROJECT_DIR$/33046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2644.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18111.py" beforeDir="false" afterPath="$PROJECT_DIR$/18111.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +76,7 @@
     "Python.1715.executor": "Run",
     "Python.17206.executor": "Run",
     "Python.17219.executor": "Run",
+    "Python.18111.executor": "Run",
     "Python.1850.executor": "Run",
     "Python.1874.executor": "Run",
     "Python.1920.executor": "Run",
@@ -105,8 +90,10 @@
     "Python.2193.executor": "Run",
     "Python.2343.executor": "Run",
     "Python.2467.executor": "Run",
+    "Python.2579.executor": "Run",
     "Python.2609.executor": "Run",
     "Python.26264.executor": "Run",
+    "Python.2644.executor": "Run",
     "Python.2675.executor": "Run",
     "Python.2739.executor": "Run",
     "Python.2751.executor": "Run",
