@@ -1,9 +1,18 @@
 #20250902
 #15650 n과 m(2)
+#백트래킹,bfs
 
-n,m=map(int,input().split())
-a=[i for i in range(1,n+1)]
+n,m=map(int, input().split())
+result = []
 
-for i in range(1,n-m+2):
-    for j in range(i,i+m+1):
-        print(i,j)
+def dfs(start, depth):
+    #print(result)
+    if depth==m:
+        print(*result)
+        return
+    for i in range(start, n + 1):
+        result.append(i)
+        dfs(i + 1, depth + 1)  # 다음 숫자는 i+1부터
+        result.pop()
+
+dfs(1, 0)
